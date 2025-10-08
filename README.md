@@ -14,7 +14,6 @@ To create a 3D model from given orthographic projection.
 1.	Open new file and then select sketch icon.
 2.	Select the plane for sketching. 
 3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
-
 ![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
 
 4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
